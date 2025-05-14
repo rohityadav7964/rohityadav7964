@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohityadav7964&label=Profile%20views&color=0e75b6&style=flat" alt="rohityadav7964" /> </p>
 
-- 💬 Ask me about **java C,,Cloud,Github**
+- 💬 Ask me about **Java C,,Cloud,Github**
 
 - 📫 How to reach me **rohitkumaryadav7964@gmail.com**
 
