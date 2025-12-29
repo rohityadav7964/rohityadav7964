@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🚀 Scalable full-stack web applications.<br>💻Real-world Java & MERN stack projects.<br>🧠System design and backend scalability.<br>⚙️Spring Boot, AWS, and advanced backend concepts.<br>☕Java, REST APIs, MERN stack.<br>✨I enjoy turning real-world problems into working web applications
+<br>🚀 Scalable full-stack web applications.<br>💻 Real-world Java & MERN stack projects.<br>🧠 System design and backend scalability.<br>⚙️ Spring Boot,AWS,and advanced backend concepts.<br>☕ Java, REST APIs, MERN stack.<br> ✨I enjoy turning real-world problems into working web applications
 
 
 ## 🌐 Socials:
