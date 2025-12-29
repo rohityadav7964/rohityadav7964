@@ -60,9 +60,10 @@ Strong focus on backend, system design, and performance-oriented architectures.
 [![](https://visitcount.itsvg.in/api?id=rohityadav7964&icon=0&color=0)](https://visitcount.itsvg.in)
 ### 🔝 Top Repositories
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=rohityadav7964&repo=Doctor-appointment&theme=dark)
-![](https://github-readme-stats.vercel.app/api/pin/?username=rohityadav7964&repo=TAP-ACADEMY-CORE-JAVA&theme=dark)
-![](https://github-readme-stats.vercel.app/api/pin/?username=rohityadav7964&repo=Final-Year-Project&theme=dark)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohityadav7964&repo=Doctor-appointment&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohityadav7964&repo=TAP-ACADEMY-CORE-JAVA&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohityadav7964&repo=Final-Year-Project&theme=dark" />
+</p>
 
 <!-- Clean, stable & recruiter-friendly README -->
