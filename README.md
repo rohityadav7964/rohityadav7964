@@ -1,7 +1,7 @@
 # 💫 About Me:
 👨‍💻 I build scalable full-stack web applications and enjoy turning real-world problems into reliable software solutions.
 
-<br>- 🚀 Scalable full-stack web applications .<br>- 💻 Real-world Java & MERN stack projects .<br>- 🧠 Backend development & system design .<br>- ⚙️ Spring Boot, REST APIs, AWS basics .<br>-☕ Java, 🟨 JavaScript, 🌐 MERN Stack.<br> -✨ I enjoy turning real-world problems into working web applications.
+<br>- 🚀 Scalable full-stack web applications .<br>- 💻 Real-world Java & MERN stack projects .<br>- 🧠 Backend development & system design <br>- ⚙️ Spring Boot, REST APIs, AWS basics .<br>-☕ Java, 🟨 JavaScript, 🌐 MERN Stack.<br> -✨ I enjoy turning real-world problems into working web applications.
 
 
 ## 🌐 Socials:
